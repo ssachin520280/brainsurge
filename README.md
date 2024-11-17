@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">BrainSurge</h1>
   <h2 align="center">Modern UI/UX website</h2>
-  <h3>Live Preview: <a href="https://ghj.vpm">site</a></h3>
+  <h3>Live Preview: <a href="https://brainsurge.vercel.app/">brainsurge.vercel.app</a></h3>
 
 </div>
 
